@@ -1,0 +1,6 @@
+Source: isl
+Version: 0.23
+Port-Version: 0
+Homepage: http://isl.gforge.inria.fr/
+Description: A library for manipulating sets and relations of integer points bounded by linear constraints.
+Build-Depends: gmp
